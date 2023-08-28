@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidGrupo1</string>
+    <string name="enviar">Enviar</string>
+    <string name="body">Body</string>
+    <string name="userid">UserID</string>
+    <string name="title">Title</string>
+    <string name="IdUser">IdUser</string>
+</resources>
